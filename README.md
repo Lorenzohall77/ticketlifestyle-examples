@@ -4,7 +4,7 @@
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
-
+ 
 
 <h2>Environments and Technologies Used</h2>
 
